@@ -14,6 +14,10 @@
 
 ---
 
+🎥 **Watch the full interactive demo video**:  
+[![Watch Demo](https://img.youtube.com/vi/AJOmRI7pt98/0.jpg)](https://youtu.be/AJOmRI7pt98)
+
+
 ## 💡 About the Project
 
 **SafePath AI** is an AI-powered safety navigation platform that empowers women to travel through cities with confidence. It goes beyond panic buttons or reactive alerts—by predicting risks, recommending safe routes, and enabling community travel options.
