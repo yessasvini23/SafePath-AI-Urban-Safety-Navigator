@@ -66,8 +66,9 @@
 
 *AI-generated alerts based on real-world conditions*
 
-![SafePath AI Screens](https://sandbox.openai.com/mnt/data/A_digital_presentation_slide_displays_three_screen.png)
 
+![SafePath AI Screens](safepath_ai_screenshots.png)  
+*Overview of real-time safety map, transit audit, and AI alerts*
 
 ---
 
