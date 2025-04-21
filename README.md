@@ -11,7 +11,6 @@
 ## 🚀 Live Demo
 
 🌐 Try it now: [**safe-path-ai-guardian.lovable.app/chat**](https://safe-path-ai-guardian.lovable.app/chat)  
-🎥 [Demo Video](#) (Add video link when available)
 
 ---
 
@@ -67,7 +66,8 @@
 *AI-generated alerts based on real-world conditions*
 
 
-![SafePath AI Screens](safepath_ai_screenshots.png)  
+![SafePath AI Screens](assets/safepath_ai_screenshots.png)  
+
 *Overview of real-time safety map, transit audit, and AI alerts*
 
 ---
